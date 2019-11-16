@@ -1,6 +1,22 @@
-# BudgetApp
+# Budget Calculator App (Angular)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+[![Application Design Illustration](./src/assets/thumbnail.png)](https://youtu.be/sU4z4Ti-8OQ)
+
+##### Watch the full tutorial on [Youtube](https://youtu.be/sU4z4Ti-8OQ)! 
+
+## Screenshots
+
+[![Application Screenshot 1](./src/assets/screenshots/01_Budget_App_Screenshot.png)](https://youtu.be/sU4z4Ti-8OQ)
+
+[![Application Screenshot 1](./src/assets/screenshots/02_Budget_App_Screenshot.png)](https://youtu.be/sU4z4Ti-8OQ)
+
+[![Application Screenshot 1](./src/assets/screenshots/03_Budget_App_Screenshot.png)](https://youtu.be/sU4z4Ti-8OQ)
+
+[![Application Screenshot 1](./src/assets/screenshots/04_Budget_App_Screenshot.png)](https://youtu.be/sU4z4Ti-8OQ)
+
+[![Application Screenshot 1](./src/assets/screenshots/05_Budget_App_Screenshot.png)](https://youtu.be/sU4z4Ti-8OQ)
+
+---
 
 ## Development server
 
